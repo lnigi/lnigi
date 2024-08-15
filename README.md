@@ -4,7 +4,7 @@
 I'm a Computer Engineering student at Università degli Studi di Siena. About the progress for my studies, I'm currently writing my final thesis for my BSc. 
 I reckon I will further my studies in the field of Artificial Intelligence and Machine Learning.
 
-<h2>What can I find on this profile?</h2>
+<h2>What can I find here?</h2>
 On this profile you can find the code I wrote for my course projects during my studies. Hopefully, in the future I'll add more advanced stuff as I progress with my studies.
 
 <h2>About me</h2>
