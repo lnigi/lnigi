@@ -1,7 +1,7 @@
 <h1>Hey there, welcome to my profile!</h1>
 
 <h2>Who am I?</h2>
-I'm a Computer Engineering student at Università degli Studi di Siena. About the progress for my studies, I'm currently writing my final thesis for my BSc. 
+I'm a Computer Engineering student at Università degli Studi di Siena. About the progress in my studies, I'm currently writing my final thesis for my BSc. 
 I reckon I will further my studies in the field of Artificial Intelligence and Machine Learning.
 
 <h2>What can I find here?</h2>
